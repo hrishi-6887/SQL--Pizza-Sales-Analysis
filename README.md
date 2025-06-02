@@ -25,21 +25,21 @@ The database consists of the following key tables:
 
 ## 🔍 Key Analysis Performed
 
-1. **📦 Total Orders**  
+1. **Total Orders**  
    - Counted the total number of orders placed.
 
-2. **💰 Total Revenue**  
+2. **Total Revenue**  
    - Calculated total sales by multiplying quantity and price.
 
-3. **🔥 Top Performers**
+3. **Top Performers**
    - Identified the highest-priced pizza.
    - Found the most ordered pizza types (by quantity and revenue).
    - Determined the most common pizza size.
 
-4. **📊 Category Analysis**
+4. **Category Analysis**
    - Category-wise quantity sold and distribution of pizza types.
 
-5. **🕐 Time-Based Trends**
+5. **Time-Based Trends**
    - Analyzed order volume by hour to detect peak times.
    - Calculated average pizzas ordered per day.
 
